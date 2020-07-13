@@ -52,8 +52,7 @@
     <ItemGroup>
         <Compile Include="Platforms\Shared\**\*.cs" />
         <!--NuGet that bring in good stuff -->
-        <PackageReference Include="Xamarin.Forms" Version="4.4.0.991477" />
-        <!--<PackageReference Include="Xamarin.Forms" Version="3.6.0.220655" />-->
+        <PackageReference Include="Xamarin.Forms" Version="4.7.0.1080" />
         <PackageReference Include="System.ComponentModel" Version="4.3.0" />
         <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
     </ItemGroup>
